@@ -1,2 +1,2 @@
-insert into user values(20001, 'Kwan');
-insert into user values(20002, 'Kate');
+insert into user values(1, 'Kwan');
+insert into user values(2, 'Kate');
